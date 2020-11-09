@@ -1,0 +1,13 @@
+body {
+    background: pink;
+}
+
+button {
+    background-color: transparent;
+    border-color: violet;
+}
+
+h1 {
+    background-position: 10px;
+    color: rgb(47, 47, 143);
+}
